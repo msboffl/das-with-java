@@ -1,4 +1,4 @@
-package com.java.basics;
+package com.java.introduction;
 
 public class HelloWorld {
     public static void main(String[] args) {
