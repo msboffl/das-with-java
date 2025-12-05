@@ -1,7 +1,7 @@
-package com.dsa.linkedList;
+package com.dsa.linkedList.singlyLinkedList;
 
 public class SinglyLinkedList {
-    static void printLinkedList(Node head) {
+    public static void printLinkedList(Node head) {
         while (head != null) {
             System.out.print(head.data + "->");
             head = head.next;

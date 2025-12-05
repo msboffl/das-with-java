@@ -1,4 +1,7 @@
-package com.dsa.linkedList;
+package com.dsa.linkedList.singlyLinkedList.insertion;
+
+import com.dsa.linkedList.singlyLinkedList.Node;
+import com.dsa.linkedList.singlyLinkedList.SinglyLinkedList;
 
 public class InsertNodeAtEnd {
     static Node insertAtEnd(Node head, int x) {

@@ -1,5 +1,8 @@
-package com.dsa.linkedList;
+package com.dsa.linkedList.singlyLinkedList.insertion;
 
+
+import com.dsa.linkedList.singlyLinkedList.Node;
+import com.dsa.linkedList.singlyLinkedList.SinglyLinkedList;
 
 public class InsertNodeAtFront {
     static Node insertAtFront(Node head, int data) {
